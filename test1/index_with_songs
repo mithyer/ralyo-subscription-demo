@@ -1,0 +1,25 @@
+# Put songs together with information is not recommended, suggest using https://raw.githubusercontent.com/mithyer/ralyo-subscription-demo/main/demo/index
+
+# Subscription name
+name: Ralyo DEMO 
+# Author name
+creator: ralyo 
+# For samll poster displayed in app
+small_poster_url: https://cdn1.suno.ai/image_1614fc29-df95-4040-be6a-0b74c63bb07b.png 
+# For large poster displayed in app
+large_poster_url: https://cdn1.suno.ai/image_large_1614fc29-df95-4040-be6a-0b74c63bb07b.png 
+# Say something about this subscription
+description: This is a demo 
+
+# Change version when you added, removed or replaced songs. If version remains same, new parsing won't process.
+
+version: 1.0 # !!!!
+
+
+# Put your songs below
+# Two style is allowed
+# 1.Just use suno song link
+# 2.Or use the brief one like 'SUNO@<song-uuid>'
+
+https://suno.com/song/a855fe5f-c7d6-4951-a599-6db5c15ebdaf
+SUNO@749974eb-4b47-428e-b4a4-01b44ebcbc04
