@@ -1,0 +1,8 @@
+
+name: Test3
+creator: test
+small_poster_url: https://raw.githubusercontent.com/mithyer/ralyo-subscription-demo/main/test3/poster_small.png 
+large_poster_url: https://raw.githubusercontent.com/mithyer/ralyo-subscription-demo/main/test3/poster_large.png
+description: This is a test 3
+version: 1
+songs: songs
