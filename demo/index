@@ -13,7 +13,7 @@ description: This is a demo
 
 # Change version when you added, removed or replaced songs. If version remains same, new parsing won't process.
 
-version: 1.1 # !!!!
+version: 1.2 # !!!!
 
 
 # Left part of songs' url is as same as this, but with different path's tail point, and url redirection is forbid.
